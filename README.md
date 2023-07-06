@@ -24,6 +24,7 @@ flutter pub get
 3. Add your API key into api_constants file
 apiKey = 'YOUR_API_KEY';
 using the tmdb : https://developer.themoviedb.org/reference/intro/getting-started
+using TMBD API "https://developer.themoviedb.org/docs"
 4. Run the app
 flutter run
 Packages
