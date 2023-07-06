@@ -46,5 +46,3 @@ readmore
 shimmer
 stream_transform
 url_launcher
-# Acknowledgements
-This app is based on Build a Movie App - FlutterFlow YouTube video by @abuanwar072, special thanks to Abu Anwar for his amazing videos and tutorials!
