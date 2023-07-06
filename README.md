@@ -22,7 +22,7 @@ TV show season details
 flutter pub get
 3. Add your API key into api_constants file
 apiKey = 'YOUR_API_KEY';
-notes : this api key for now cant used that, error from tmdb cant signin or signup, but you can add api key if you have one.
+using TMBD API "https://developer.themoviedb.org/docs"
 4. Run the app
 flutter run
 Packages
