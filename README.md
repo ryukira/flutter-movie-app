@@ -18,10 +18,12 @@ TV show season details
 
 # Installation
 1. Clone the repo
+https://github.com/ryukira/flutter-movie-app.git
 2. Run pub get
 flutter pub get
 3. Add your API key into api_constants file
 apiKey = 'YOUR_API_KEY';
+using the tmdb : https://developer.themoviedb.org/reference/intro/getting-started
 4. Run the app
 flutter run
 Packages
